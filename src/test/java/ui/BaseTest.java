@@ -1,10 +1,10 @@
 package ui;
 
-import BisnesObjects.AllLaptopPageBO;
-import BisnesObjects.BasketPageBO;
-import BisnesObjects.FirstLaptopHPPageBO;
-import BisnesObjects.RozetkaMainPageBO;
-import driver.DriverManager;
+import com.cursor.BisnesObjects.AllLaptopPageBO;
+import com.cursor.BisnesObjects.BasketPageBO;
+import com.cursor.BisnesObjects.FirstLaptopHPPageBO;
+import com.cursor.BisnesObjects.RozetkaMainPageBO;
+import com.cursor.driver.DriverManager;
 import org.openqa.selenium.WebDriver;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;

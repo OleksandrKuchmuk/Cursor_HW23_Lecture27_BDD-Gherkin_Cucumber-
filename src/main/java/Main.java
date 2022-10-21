@@ -1,4 +1,4 @@
-import pages.BasketPage;
+import com.cursor.pages.BasketPage;
 
 public class Main {
     public static void main(String[] args) {

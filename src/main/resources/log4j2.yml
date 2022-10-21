@@ -38,9 +38,9 @@ configuration:
         - ref: myConsole
           level: info
 
-    Logger:
-      - name: com.epam.Main
-        level: all
-        AppenderRef:
-         - ref: myConsole
-           level: trace
+#    Logger:
+#      - name: com.cursor.Main
+#        level: all
+#        AppenderRef:
+#         - ref: myConsole
+#           level: trace

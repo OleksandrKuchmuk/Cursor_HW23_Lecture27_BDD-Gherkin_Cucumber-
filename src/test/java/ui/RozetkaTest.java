@@ -1,14 +1,14 @@
 package ui;
 
-import BisnesObjects.AllLaptopPageBO;
-import BisnesObjects.BasketPageBO;
-import BisnesObjects.FirstLaptopHPPageBO;
-import BisnesObjects.RozetkaMainPageBO;
+import com.cursor.BisnesObjects.AllLaptopPageBO;
+import com.cursor.BisnesObjects.BasketPageBO;
+import com.cursor.BisnesObjects.FirstLaptopHPPageBO;
+import com.cursor.BisnesObjects.RozetkaMainPageBO;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import util.PropertyReader;
+import com.cursor.util.PropertyReader;
 
 public class RozetkaTest extends BaseTest {
     private static final Logger LOGGER = LogManager.getLogger(RozetkaTest.class);
